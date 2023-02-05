@@ -1,12 +1,10 @@
 {
   "type":"admob",
-  "homebanner":"ca-app-pub-2417459009860579/6730687006",
-  "statusbanner":"ca-app-pub-2417459009860579/1286788638",
-  "accbanner":"ca-app-pub-2417459009860579/4452277526",
-  "applybanner":"ca-app-pub-2417459009860579/9810763024",
-  "calcbanner":"ca-app-pub-2417459009860579/1634542498",
-  "loaninterstitial":"ca-app-pub-2417459009860579/2616451674",
-  "accinterstitial":"ca-app-pub-2417459009860579/1498811121",
-  "successinerstitial":"ca-app-pub-2417459009860579/8555174069",
-  "appopen":"ca-app-pub-2417459009860579/7242092395"
+  "homebanner":"ca-app-pub-2417459009860579/8363602374",
+  "appopen":"ca-app-pub-2417459009860579/3163246589",
+  "detailbanner":"ca-app-pub-2417459009860579/1030254873",
+  "calcbanner":"ca-app-pub-2417459009860579/3107406269",
+  "generalbanner":"ca-app-pub-2417459009860579/7044998888",
+  "interstitil":"ca-app-pub-2417459009860579/3297325561"
+  
 }
